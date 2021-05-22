@@ -5,7 +5,7 @@ header-img: img/home-bg-he.png
 email: humusic@qq.com
 description: "humusic的博客"
 keyword: "humusic, humusic的博客, rainbom sea, humusic, Python blog"
-url: "http://humusic.github.io"          # your host, for absolute URL
+url: "https://humusic.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/humusic/humusic.github.io.git" #code repository | 代码仓库
 
